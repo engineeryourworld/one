@@ -1,12 +1,16 @@
-When this lesson is complete, your students should understand how the complexity of the problem increases when all stakeholder perspectives are incorporated.
+When this lesson is complete, your students should understand how the **complexity of the problem increases when all stakeholder perspectives are incorporated**.
 
 Lesson template: Shift Perspectives
+
 Teaching strategies: Jigsaw
 
-|Step 1|
-|Distribute the RFP (doc)|
-Ask teams to split up the interview statements (e.g., one for each team member)
-Ask students to read their interview statements independently and silently
+1 | 1
+--- | ---
+2 | 2
+
+1. Distribute the RFP (doc)
+2. Ask teams to split up the interview statements (e.g., one for each team member)
+3. Ask students to read their interview statements independently and silently
 When finished, ask students to form three new groups based on their interview statements (e.g., all City Government Officers should be in one group, all Owners should be in one group, etc.)
 Ask the three groups to create a know/need-to-know table for their customer
 Teacher note: This act uses the jigsaw teaching strategy
