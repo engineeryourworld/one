@@ -1,8 +1,10 @@
-**Who is your customer and what do they really want?**
 When this lesson is complete, your students should understand how the complexity of the problem increases when all stakeholder perspectives are incorporated.
-This lesson is built on the Shift Perspectives template and uses a Jigsaw teaching strategy.
-Step 1
-Distribute the RFP (doc)
+
+Lesson template: Shift Perspectives
+Teaching strategies: Jigsaw
+
+|Step 1|
+|Distribute the RFP (doc)|
 Ask teams to split up the interview statements (e.g., one for each team member)
 Ask students to read their interview statements independently and silently
 When finished, ask students to form three new groups based on their interview statements (e.g., all City Government Officers should be in one group, all Owners should be in one group, etc.)
