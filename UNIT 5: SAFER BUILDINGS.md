@@ -28,7 +28,7 @@ All lessons are 1 day (50 min) unless otherwise stated.
 
 #### FINALIZE: Prepare and submit a written proposal/report. Prepare and present recommendations.
 11.	Which proposal has the best cost/performance ratio?
-12.	How should we report our recommendations?
+12.	[How should we report our recommendations?](/lessons/safer%20buildings/how%20should%20we%20report%20our%20recommendations.md)
 
 
 #### WRAPPING UP
