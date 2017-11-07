@@ -9,7 +9,7 @@ All lessons are 1 day (50 min) unless otherwise stated.
 * Pretest
 
 #### IDENTIFY: Analyze interview statements from stakeholders and develop a “know/need-to-know” list.
-1.	[Who is your customer and what do they really want?](https://github.com/engineeryourworld/one/blob/master/lessons/safer%20buildings/who%20is%20your%20customer%20and%20what%20do%20they%20really%20want.md) *(2 days)*
+1.	[Who is your customer and what do they really want?](../lessons/safer%20buildings/who%20is%20your%20customer%20and%20what%20do%20they%20really%20want.md) *(2 days)*
 
 #### DESCRIBE: Develop requirements and constraints. Design an experiment to collect baseline data from scale models of buildings. Build and test scale models. Analyze data to quantify building safety.
 2.	Is the client data correct?
