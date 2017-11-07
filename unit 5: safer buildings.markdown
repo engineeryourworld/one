@@ -23,7 +23,6 @@ DESCRIBE: Develop requirements and constraints. Design an experiment to collect 
 Custom lessons by: Arny Leslie, Audrea Moyers, Bob Robinette, Tim Graves
 
 
-
 GENERATE: Research existing solutions. Design and conduct an experiment to test some solutions. Compile class data set used to generate concepts for a final design. Select a concept using Six Thinking Hats.
 7	How have engineers prevented damage and death in the past?*
 8	How well do these different ideas work?* (3 days)
