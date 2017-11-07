@@ -4,9 +4,9 @@ If your students learn only one thing in this unit, make sure they understand th
 All lessons are 1 day (50 min) unless otherwise stated.
 
 #### BEFORE YOU BEGIN
-Forming Groups
-Careers Research Project
-Pretest
+* Forming Groups
+* Careers Research Project
+* Pretest
 
 #### IDENTIFY: Analyze interview statements from stakeholders and develop a “know/need-to-know” list.
 1.	Who is your customer and what do they really want? (2 days)
@@ -32,6 +32,6 @@ Pretest
 
 
 #### WRAPPING UP
-Reflecting on groups: peer assessment and self-assessment
-Post-test
-Presenting careers research findings
+* Reflecting on groups: peer assessment and self-assessment
+* Post-test
+* Presenting careers research findings
