@@ -19,7 +19,7 @@ All lessons are 1 day (50 min) unless otherwise stated.
 6.	What does safe mean?
 
 #### GENERATE: Research existing solutions. Design and conduct an experiment to test some solutions. Compile class data set used to generate concepts for a final design. Select a concept using Six Thinking Hats.
-7.	How have engineers prevented damage and death in the past?*
+7.	[How have engineers prevented damage and death in the past?](lessons/safer%20buildings/how%20have%20engineers%20prevented%20damage%20and%20death%20in%20the%20past.md)*
 8.	[How well do these different ideas work?](lessons/safer%20buildings/how%20well%20do%20these%20different%20ideas%20work.md) *(3 days)*
 9.	[Which design should we choose?](lessons/safer%20buildings/which%20design%20should%20we%20choose.md)
 
