@@ -9,7 +9,7 @@ All lessons are 1 day (50 min) unless otherwise stated.
 * Pretest
 
 #### IDENTIFY: Analyze interview statements from stakeholders and develop a “know/need-to-know” list.
-1.	Who is your customer and what do they really want? (2 days)
+1.	Who is your customer and what do they really want? *(2 days)*
 
 #### DESCRIBE: Develop requirements and constraints. Design an experiment to collect baseline data from scale models of buildings. Build and test scale models. Analyze data to quantify building safety.
 2.	Is the client data correct?
@@ -20,7 +20,7 @@ All lessons are 1 day (50 min) unless otherwise stated.
 
 #### GENERATE: Research existing solutions. Design and conduct an experiment to test some solutions. Compile class data set used to generate concepts for a final design. Select a concept using Six Thinking Hats.
 7.	How have engineers prevented damage and death in the past?*
-8.	How well do these different ideas work?* (3 days)
+8.	How well do these different ideas work? *(3 days)*
 9.	What design should we choose?*
 
 #### EMBODY: Build and test the selected concept, analyze data to quantify safety, determine total cost and cost-to-performance ratio, and refine the concept.
