@@ -3,18 +3,18 @@ If your students learn only one thing in this unit, make sure they understand th
 
 All lessons are 1 day (50 min) unless otherwise stated.
 
-#BEFORE YOU BEGIN
+# BEFORE YOU BEGIN
 Forming Groups
 Careers Research Project
 Pretest
 
-#IDENTIFY
+# IDENTIFY
 Analyze interview statements from stakeholders and develop a “know/need-to-know” list.
 1.	Who is your customer and what do they really want? (2 days)
 
 
 
-#DESCRIBE
+# DESCRIBE
 Develop requirements and constraints. Design an experiment to collect baseline data from scale models of buildings. Build and test scale models. Analyze data to quantify building safety.
 2.	Is the client data correct?
 3.	Is our data good?
@@ -22,25 +22,25 @@ Develop requirements and constraints. Design an experiment to collect baseline d
 5.	Why are some buildings destroyed while others are not?
 6.	What does safe mean?
 
-#GENERATE
+# GENERATE
 Research existing solutions. Design and conduct an experiment to test some solutions. Compile class data set used to generate concepts for a final design. Select a concept using Six Thinking Hats.
 7.	How have engineers prevented damage and death in the past?*
 8.	How well do these different ideas work?* (3 days)
 9.	What design should we choose?*
 
-#EMBODY
+# EMBODY
 Build and test the selected concept, analyze data to quantify safety, determine total cost and cost-to-performance ratio, and refine the concept.
 10.	How well does our design perform?
 
 
 
-#FINALIZE
+# FINALIZE
 Prepare and submit a written proposal/report. Prepare and present recommendations.
 11.	Which proposal has the best cost/performance ratio?
 12.	How should we report our recommendations?
 
 
-#WRAPPING UP
+# WRAPPING UP
 Reflecting on groups: peer assessment and self-assessment
 Post-test
 Presenting careers research findings
