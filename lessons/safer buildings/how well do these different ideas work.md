@@ -1,7 +1,7 @@
 Lesson template: Design of Experiments
 
 #### Act 1
-1. Ask teams the report ideas they researched
+1. Ask teams to report the ideas they researched
 2. As teams share, write the ideas on the board
 
 Teacher note: We want as many unique ideas on the board as possible.  Keep all ideas for now, even if they are precluded by constraints.  If a group's top idea has already been reported, ask them to submit their next favorite idea.
