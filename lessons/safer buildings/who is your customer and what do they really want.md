@@ -2,7 +2,7 @@ When this lesson is complete, your students should understand how the **complexi
 
 Lesson template: Shift Perspectives
 
-Teaching strategies: Jigsaw
+Teaching strategies: [Jigsaw](https://youtu.be/euhtXUgBEts)
 
 #### Step 1
 1. Distribute the RFP ([doc](https://docs.google.com/document/d/1EENHkz6aDVt7vzE9CynYadTr8QmnWNDHVm5ZQsHdpTQ/edit?usp=sharing))
