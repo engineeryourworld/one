@@ -21,7 +21,7 @@ All lessons are 1 day (50 min) unless otherwise stated.
 #### GENERATE: Research existing solutions. Design and conduct an experiment to test some solutions. Compile class data set used to generate concepts for a final design. Select a concept using Six Thinking Hats.
 7.	How have engineers prevented damage and death in the past?*
 8.	How well do these different ideas work? *(3 days)*
-9.	What design should we choose?*
+9.	[Which design should we choose?](lessons/safer%20buildings/which%20design%20should%20we%20choose.md)
 
 #### EMBODY: Build and test the selected concept, analyze data to quantify safety, determine total cost and cost-to-performance ratio, and refine the concept.
 10.	How well does our design perform?
