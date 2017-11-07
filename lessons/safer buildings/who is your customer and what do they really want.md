@@ -5,12 +5,12 @@ Lesson template: Shift Perspectives
 Teaching strategies: Jigsaw
 
 #### Step 1
-1. Distribute the RFP (doc)
+1. Distribute the RFP ([doc](https://docs.google.com/document/d/1EENHkz6aDVt7vzE9CynYadTr8QmnWNDHVm5ZQsHdpTQ/edit?usp=sharing))
 2. Ask teams to split up the interview statements (e.g., one for each team member)
 3. Ask students to read their interview statements independently and silently
 4. When finished, ask students to form three new groups based on their interview statements (e.g., all City Government Officers should be in one group, all Owners should be in one group, etc.)
 5. Ask the three groups to create a know/need-to-know table for their customer
-Teacher note: This act uses the jigsaw teaching strategy
+Teacher note: This act uses the [jigsaw](https://youtu.be/euhtXUgBEts) teaching strategy
 
 #### Step 2
 1. Explain the demo setup
