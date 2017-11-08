@@ -1,3 +1,12 @@
+#### Unit 1: Overview and Norms
+#### Unit 2: Pinhole Camera
+#### Unit 3: Product Redesign
+#### Unit 4: Designing Coffee
+#### Unit 5: Safer Buildings
+#### Unit 6: Electronic Music
+#### Unit 7: Aerial Imaging
+
+
 Technology changes
 * We eliminated the use of "smart" file names because the cons outweigh the pros
 * Piazza has replaced Canvas as the "hub" of the curriculum
